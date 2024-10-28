@@ -1,4 +1,8 @@
 git checkout -b branchName
+git init
+git status
+git add .        [for all files]
+git commit -m    [for make messages after addition]
 
 
 git config --global user.name "username"
